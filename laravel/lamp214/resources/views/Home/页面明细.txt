@@ -1,0 +1,16 @@
+BuyCar.html --> 查看购物车
+BuyCar_Two.html --> 确认订单
+BuyCar_Three.html --> 成功提交订单
+CategoryList.html --> 列表页
+Index.html --> 主页
+Login.html --> 登录页
+Member.html --> 用户信息页
+Member_Address.html --> 收货地址页
+Member_Collect.html --> 我的收藏页
+Member_Msg.html --> 我的留言页
+Member_Order.html --> 我的订单页
+Member_Safe.html --> 账户安全页
+Product.html --> 商品详情页
+Regist.html --> 注册页
+Sell.html --> 特卖商品页
+SellDetails.html --> 特卖商品详情页
